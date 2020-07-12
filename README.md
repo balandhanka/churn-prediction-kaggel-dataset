@@ -4,10 +4,8 @@ Binary classificcation problem
 Costumer Churn prediction using Artificial Neural Network 
 
 # MODEL archietecture 
-1 INPUT Layer
-
-2 Hidden Layer
-
-1 Output Layer
++ INPUT Layer - 1
++ Hidden Layer - 2
++ Output Layer - 1
 
 Hyper-Parameter Tuning of the model using GridSearchCV
